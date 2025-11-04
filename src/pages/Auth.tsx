@@ -16,7 +16,7 @@ const Auth = () => {
     // Authentication logic will be added when backend is connected
     setTimeout(() => {
       setIsLoading(false);
-      // window.location.href = "/onboarding";
+      window.location.href = "/onboarding";
     }, 1000);
   };
 
